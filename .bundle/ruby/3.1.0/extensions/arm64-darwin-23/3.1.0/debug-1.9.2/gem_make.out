@@ -1,0 +1,20 @@
+current directory: /Users/charlottedebaere/code/Debaerecharlotte/Cheddar-v2/.bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+/Users/charlottedebaere/.rbenv/versions/3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/charlottedebaere/code/Debaerecharlotte/Cheddar-v2/.bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240702-51080-stnrdz sitelibdir\=./.gem.20240702-51080-stnrdz clean
+
+current directory: /Users/charlottedebaere/code/Debaerecharlotte/Cheddar-v2/.bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240702-51080-stnrdz sitelibdir\=./.gem.20240702-51080-stnrdz
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/charlottedebaere/code/Debaerecharlotte/Cheddar-v2/.bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240702-51080-stnrdz sitelibdir\=./.gem.20240702-51080-stnrdz install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20240702-51080-stnrdz/debug
+
+current directory: /Users/charlottedebaere/code/Debaerecharlotte/Cheddar-v2/.bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240702-51080-stnrdz sitelibdir\=./.gem.20240702-51080-stnrdz clean
